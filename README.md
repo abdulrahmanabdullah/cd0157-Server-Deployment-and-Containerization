@@ -1,5 +1,5 @@
 # Deploying a Flask API
-
+any awful project 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
@@ -25,9 +25,7 @@ The app relies on a secret set as the environment variable `JWT_SECRET` to produ
      - You can create an AWS account by signing up [here](https://aws.amazon.com/#).
      
 ## Project Steps
-
 Completing the project involves several steps:
-
 1. Write a Dockerfile for a simple Flask API
 2. Build and test the container locally
 3. Create an EKS cluster
