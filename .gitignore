@@ -18,6 +18,10 @@ docs/_build/
 __pycache__
 .env_file
 
+# Senstive file
+aws-auth-patch.yml
+trust.json
+
 # Coverage reports
 htmlcov/
 .coverage
